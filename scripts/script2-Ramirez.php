@@ -8,7 +8,7 @@
  * @method bool es_comestible ()
  * 
  * @author Darío J. Ramírez
- * @version 1.0
+ * @version 1.1
  */
 
 class Verdura {
