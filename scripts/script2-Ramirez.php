@@ -9,6 +9,8 @@
  * 
  * @author Darío J. Ramírez
  * @version 1.1
+ *
+ * @since 1.0
  */
 
 class Verdura {
