@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\factorial\u0028\u0029",
+            "name": "factorial",
+            "summary": "Calcula\u0020el\u0020factorial\u0020de\u0020un\u0020n\u00FAmero\u0020dado\u0020usando\u0020recursividad.",
+            "url": "namespaces/default.html#function_factorial"
+        },                {
+            "fqsen": "\\fibonacci\u0028\u0029",
+            "name": "fibonacci",
+            "summary": "La\u0020funci\u00F3n\u0020calcula\u0020el\u0020n\u00FAmero\u0020n\u0020en\u0020la\u0020secuencia\u0020de\u0020Fibonacci.",
+            "url": "namespaces/default.html#function_fibonacci"
+        },                {
+            "fqsen": "\\Verdura",
+            "name": "Verdura",
+            "summary": "Clase\u0020Verdura\nEsta\u0020clase\u0020representa\u0020una\u0020verdura\u0020y\u0020proporciona\u0020dos\u0020m\u00E9todos\u0020para\u0020conocer\u0020su\u0020color\u0020y\u0020si\u0020es\u0020comestible.",
+            "url": "classes/Verdura.html"
+        },                {
+            "fqsen": "\\Verdura\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Constructor\u0020de\u0020la\u0020clase\u0020Verdura.",
+            "url": "classes/Verdura.html#method___construct"
+        },                {
+            "fqsen": "\\Verdura\u003A\u003Aes_comestible\u0028\u0029",
+            "name": "es_comestible",
+            "summary": "Verfica\u0020si\u0020la\u0020verdura\u0020es\u0020comestible.",
+            "url": "classes/Verdura.html#method_es_comestible"
+        },                {
+            "fqsen": "\\Verdura\u003A\u003Aqu\u00E9_color\u0028\u0029",
+            "name": "qu\u00E9_color",
+            "summary": "Devuelve\u0020el\u0020color\u0020de\u0020la\u0020verdura.",
+            "url": "classes/Verdura.html#method_qu%C3%A9_color"
+        },                {
+            "fqsen": "\\Verdura\u003A\u003A\u0024comestible",
+            "name": "comestible",
+            "summary": "",
+            "url": "classes/Verdura.html#property_comestible"
+        },                {
+            "fqsen": "\\Verdura\u003A\u003A\u0024color",
+            "name": "color",
+            "summary": "",
+            "url": "classes/Verdura.html#property_color"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
